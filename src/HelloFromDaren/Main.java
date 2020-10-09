@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello, my name is Daren.\n");
         System.out.println("Hello Daren, my name is Megan.\n");
         System.out.println("Thank you for your time Megan.\n");
+        System.out.println("Making changes for the stretch challenge.\n");
     }
 }
