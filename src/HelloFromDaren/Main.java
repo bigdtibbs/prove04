@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Hello Daren, my name is Lee.\n");
         System.out.println("Thank you for your time Megan.\n");
         System.out.println("Making changes for the stretch challenge.\n");
+	System.out.println("Hello Daren. My name is David");
 	    System.out.println("This change made in github.\n"); // ")" Added in IntelliJ and recommitted.
     }
 }
